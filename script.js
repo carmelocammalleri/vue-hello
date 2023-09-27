@@ -7,7 +7,8 @@ createApp({
     return{
       //3. creare il saluto
       saluto: 'Ciao vue',
-      
+      //BONUS
+      imageSrc: 'http://placebeard.it/640/480'
     }
   }
 }).mount('#app')
