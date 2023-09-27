@@ -6,7 +6,7 @@ createApp({
   data(){
     return{
       //3. creare il saluto
-      saluto: 'Ciao vue',
+      saluto: 'Ciao amante della barba',
       //BONUS
       imageSrc: 'http://placebeard.it/640/480'
     }
