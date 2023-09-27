@@ -5,7 +5,9 @@ const {createApp}  = Vue;
 createApp({
   data(){
     return{
-      saluto: 'Ciao vue'
+      //3. creare il saluto
+      saluto: 'Ciao vue',
+      
     }
   }
 }).mount('#app')
