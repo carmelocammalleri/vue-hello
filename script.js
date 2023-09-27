@@ -3,7 +3,7 @@ const {createApp}  = Vue;
 
 //2. montare il metodo 
 createApp({
-  date(){
+  data(){
     return{
       saluto: 'Ciao vue'
     }
